@@ -3,6 +3,8 @@ class Item
 
   def initialize(name,price)
     @name = name
-    @price = price
+    @price = price 
   end
+ 
+
 end
